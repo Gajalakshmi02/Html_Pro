@@ -1,0 +1,17 @@
+.para1{
+    background-color: cadetblue;
+}
+.para2{
+    background-color: darkgoldenrod;
+}
+.para3{
+    background-color: mediumorchid;
+}
+
+@media (min-width:801px){
+    .container p{
+        width: 50px;
+        float: left;
+        padding: 50px;
+    }
+}

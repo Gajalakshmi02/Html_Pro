@@ -1,0 +1,12 @@
+/* .col img{
+    width: 30%;
+    float: right;
+} */
+
+.box{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    background: repeating-radial-gradient(red 10px,red 20px, rgba(154, 38, 110, 0.995)10px, rgba(154, 38, 110, 0.995)30px);
+    /* background: radial-gradient(red, rgba(154, 38, 110, 0.995), gray,gold); */
+}
